@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date:26/03/2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -133,12 +133,13 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-![Screenshot 2024-03-22 094331](https://github.com/Aaron-0111/NearMe/assets/149347631/e1c41bb4-4cea-4db5-8b2a-d8f4452b4d3f)
-![Screenshot 2024-03-22 094347](https://github.com/Aaron-0111/NearMe/assets/149347631/62e823d8-da55-4fc2-aa02-9c423d1badf1)
-![Screenshot 2024-03-22 094448](https://github.com/Aaron-0111/NearMe/assets/149347631/3793c723-cfd7-46e7-9f26-d3243cc033f1)
-![Screenshot 2024-03-22 094410](https://github.com/Aaron-0111/NearMe/assets/149347631/460b59da-781b-42ad-9663-395083c916a5)
-![Screenshot 2024-03-22 094433](https://github.com/Aaron-0111/NearMe/assets/149347631/1f93cc40-30fd-4df5-a5aa-95e7f715f353)
-![Screenshot 2024-03-22 094502](https://github.com/Aaron-0111/NearMe/assets/149347631/b59e6a0d-6995-4166-9623-778153fb88dc)
+![Screenshot 2024-03-27 101759](https://github.com/Aaron-0111/NearMe/assets/149347631/6ce54a3c-023e-4531-b652-6df6d8393dde)
+![Screenshot 2024-03-27 101743](https://github.com/Aaron-0111/NearMe/assets/149347631/105a4739-ae24-4056-b359-c8242325148b)
+![Screenshot 2024-03-27 101922](https://github.com/Aaron-0111/NearMe/assets/149347631/901d17ad-22f9-456a-b478-adbe4ac232e3)
+![Screenshot 2024-03-27 102009](https://github.com/Aaron-0111/NearMe/assets/149347631/f4057cca-d3ba-4f86-91fd-2052a3bff1bb)
+![Screenshot 2024-03-27 101938](https://github.com/Aaron-0111/NearMe/assets/149347631/c1a82b7a-24a1-46ca-b534-67ed4ec4c616)
+![Screenshot 2024-03-27 101955](https://github.com/Aaron-0111/NearMe/assets/149347631/34fe4101-268e-4bdf-bb63-2e082f55d5e6)
+![Screenshot 2024-03-27 101827](https://github.com/Aaron-0111/NearMe/assets/149347631/b9da560d-38b8-4fbd-8293-869676fc6e34)
 
 
 
